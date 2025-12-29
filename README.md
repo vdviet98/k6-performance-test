@@ -1,1 +1,1 @@
-# k6-typeScript
+# k6-performance-test
